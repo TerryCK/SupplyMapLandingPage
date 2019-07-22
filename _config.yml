@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Shiung & Terry
-your_link                                 : https://goo.gl/USI7g5
-your_city                                 : Taipei
+# your_link                                 : https://goo.gl/USI7g5
+your_city                                 : Taiwan
 email_address                             : pbikemapvision@gmail.com
 facebook_username                         :
 # instagram_username                        : ebaehr
