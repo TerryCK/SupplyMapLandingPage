@@ -110,19 +110,6 @@ footer_text_color                         : "#666666"
 
 
 
-
-
-
-
-
-
----
-layout: default
-comments: true
-# other options
----
-
-
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
