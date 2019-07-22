@@ -23,10 +23,10 @@ your_name                                 : Shiung & Terry
 # your_link                                 : https://goo.gl/USI7g5
 your_city                                 : Taiwan
 email_address                             : pbikemapvision@gmail.com
-facebook_username                         :
+facebook_username                         : ShiungLiu
 # instagram_username                        : ebaehr
 # twitter_username                          : ebaehr
-github_username                           : terryck
+github_username                           : ShiungLiu
 # youtube_username                          :
 
 
@@ -50,8 +50,8 @@ features                                  :
     description                           : 清楚明確顯示地標位置，單指雙擊後拖移可以縮放地圖視野
     fontawesome_icon_name                 : map-marked-alt
 
-  - title                                 : 資訊清楚明確
-    description                           : 立刻知道到達目的所需時間與距離
+  - title                                 : 導航
+    description                           : 一鍵導航，預估達目的所需時間與距離
     fontawesome_icon_name                 : mobile
 
   - title                                 : 指南針
