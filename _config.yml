@@ -35,28 +35,29 @@ github_username                           : terryck
 features                                  :
 
   - title                                 : 省下時間
-    description                           : 讓你更快速找到洗衣精補充站，將時間留給身邊美好人事物
+    description                           : 更快速找到洗衣精補充站，將時間留給身邊美好人事物
     fontawesome_icon_name                 : coffee
 
   - title                                 : 省下金錢
-    description                           : 減少塑料並重複使用包裝瓶，保護環境及下一代
+    description                           : 一起塑料並重複使用包裝瓶，保護環境及下一代
     fontawesome_icon_name                 : coins
 
   - title                                 : 無需登入
-    description                           : 打開即可使用
+    description                           : 無需帳號綁定，開啟App即可使用
     fontawesome_icon_name                 : mask
 
-  - title                                 : 地圖
-    description                           : 清楚明確顯示地標位置
+  - title                                 : 單指操作地圖
+    description                           : 清楚明確顯示地標位置，單指雙擊後拖移可以縮放地圖視野
     fontawesome_icon_name                 : map-marked-alt
 
-  - title                                 : 完全原生開發
-    description                           : 提供良好，快速的體驗。
+  - title                                 : 資訊清楚明確
+    description                           : 立刻知道到達目的所需時間與距離
     fontawesome_icon_name                 : mobile
 
   - title                                 : 指南針
-    description                           : 結合手機指南針，讓你快速找到方向及方位
+    description                           : 結合指南針及羅盤GPS，快速找到方向及方位
     fontawesome_icon_name                 : compass
+
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
