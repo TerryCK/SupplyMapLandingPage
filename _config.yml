@@ -34,45 +34,45 @@ github_username                           : terryck
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : 省下時間
+    description                           : 讓你更快速找到洗衣精補充站，將時間留給身邊美好人事物
+    fontawesome_icon_name                 : coffee
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 省下金錢
+    description                           : 減少塑料並重複使用包裝瓶，保護環境及下一代
+    fontawesome_icon_name                 : coins
+
+  - title                                 : 無需登入
+    description                           : 打開即可使用
+    fontawesome_icon_name                 : mask
+
+  - title                                 : 地圖
+    description                           : 清楚明確顯示地標位置
+    fontawesome_icon_name                 : map-marked-alt
+
+  - title                                 : 完全原生開發
+    description                           : 提供良好，快速的體驗。
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 指南針
+    description                           : 結合手機指南針，讓你快速找到方向及方位
+    fontawesome_icon_name                 : compass
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  # - title                                 : Smart App Banner
+  #   description                           : Display a smart app banner on iOS devices.
+  #   fontawesome_icon_name                 : arrow-alt-circle-down
+  #
+  # - title                                 : Social Links
+  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : link
+  #
+  # - title                                 : FontAwesome Support
+  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : info-circle
+  #
+  # - title                                 : # New Feature Title
+  #   description                           : # New Feature Description
+  #   fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
